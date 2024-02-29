@@ -1,7 +1,7 @@
 # Android Emulation Stuff
  
 ## In short I've been trying to find the 1 emulator for all my needs for years now. 
- Sadly, most of them have some kind of issue that causes problems at some point.
+ Sadly, most of them have some kind of issue that causes problems at some point. 
  Here I'll list emulators and what I've experienced with them, if at all.
  
  ### [LDPlayer](https://www.ldplayer.net/download/install)
