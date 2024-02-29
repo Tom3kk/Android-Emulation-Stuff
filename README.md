@@ -21,7 +21,7 @@
  Requires an account, has features locked behind a subscription.  
  ### [Windows subsystem for Android]() 
  This is an official way to run Android apps on Windows, requires Hyper-V AND VBS which for me made it impossible to use as I use RyzenMaster to Overclock my CPU and for some reason it doesn't work when VBS is enabled.  
- Ran FGO pretty poorly (might've been caused by it downloading files).  
+ FGO had very poor performance.
  ### [Google Play Games for Developers](https://dl.google.com/tag/s/appguid=%7BC601E9A4-03B0-4188-843E-80058BF16EF9%7D&appname=GPG_Developer_Emulator_Stable&needsadmin=true&ap=prod/play/games/Install-GooglePlayGames-DeveloperEmulator-Stable.exe)
  The official google emulator(?) for android. Requires Hyper-V and VBS.  
  The linked version should allow sideloading, the consumer version does not allow sideloading and requires the game to be compatible with it.  
@@ -30,7 +30,10 @@
  The performance was pretty ok, but the biggest issue I've had is transferring files into it and actually moving the files within the system.  
  Pretty much caused me not to use it due to how big of a pain in the ass actually setting it up was.  
  ### [MumuPlayer](https://www.mumuplayer.com/index.html)
- Not tested yet.  
+ Testing in progress...
+ So far its pretty good, very good performance in Blue Archive and Fate / Grand Order.
+ The only issue is moving files within the system, you have to root and use a file manager that can make use of being a superuser to move files into Android/Data.
+ The root is just a box you check in the settings.
  ### Waydroid [Linux Only]
  I haven't tried this one much outside of 1 week that I happened to be running linux but it worked perfectly with Fate / Grand Order.  
  Everyone who used it says its the best.  
