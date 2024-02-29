@@ -23,7 +23,7 @@
  This is an official way to run Android apps on Windows, requires Hyper-V AND VBS which for me made it impossible to use as I use RyzenMaster to Overclock my CPU and for some reason it doesn't work when VBS is enabled.  
  Ran FGO pretty poorly (might've been caused by it downloading files).  
  ### [Google Play Games for Developers](https://dl.google.com/tag/s/appguid=%7BC601E9A4-03B0-4188-843E-80058BF16EF9%7D&appname=GPG_Developer_Emulator_Stable&needsadmin=true&ap=prod/play/games/Install-GooglePlayGames-DeveloperEmulator-Stable.exe)
- The official google emulator(?) for andorid. Requires Hyper-V and VBS.  
+ The official google emulator(?) for android. Requires Hyper-V and VBS.  
  The linked version should allow sideloading, the consumer version does not allow sideloading and requires the game to be compatible with it.  
  From the little research I did neither Blue Archive nor Fate / Grand Order are compatible so I didn't test it.  
  ### [MEmu](https://www.memuplay.com/)  
