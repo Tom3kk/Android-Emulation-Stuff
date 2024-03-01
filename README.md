@@ -33,12 +33,12 @@
  The performance was pretty ok, but the biggest issue I've had is transferring files into it and actually moving the files within the system.  
  Pretty much caused me not to use it due to how big of a pain in the ass actually setting it up was.  
  ### [MumuPlayer](https://www.mumuplayer.com/index.html)
- Testing in progress...
- So far its pretty good, very good performance in Blue Archive and Fate / Grand Order.
+ <b>I'm using this one right now!</b>
+ So far its pretty good, very good performance in Blue Archive and Fate/Grand Order.
  The only issue is moving files within the system, you have to root and use a file manager that can make use of being a superuser to move files into Android/Data.
  The root is just a box you check in the settings.
  ### [Waydroid](https://waydro.id/)
- I haven't tried this one much outside of 1 week that I happened to be running linux but it worked perfectly with Fate / Grand Order.  
+ I haven't tried this one much outside of 1 week that I happened to be running linux but it worked perfectly with Fate/Grand Order.  
  Everyone who used it says its the best.
  > [!IMPORTANT]
  > Waydroid is LINUX ONLY!
