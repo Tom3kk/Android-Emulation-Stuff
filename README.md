@@ -50,4 +50,5 @@
  
 <details>
 	<summary>Contributing</summary>
-	Feel free to open pull requests if you have experience with some emulator not listed here and I'll add it to a community list.
+	Found a typo/mistake? Open an issue or a pull request with a fix :)
+	Also feel free to open pull requests if you have experience with some emulator not listed here and I'll add it to a community list.
