@@ -5,7 +5,8 @@
   
  I've been trying to find an android emulator that would satisfy all my needs for years now -  
  sadly, most of them have some kind of issue that causes problems at some point.  
- Here I'll list emulators and what I've experienced with them, if at all.  
+ This is meant as a list of emulators that I can point people towards without spending 20 minutes one explaining the pros and cons each time.
+ If you have some suggestions feel free to open an issue.
  ### [LDPlayer](https://www.ldplayer.net/download/install)
  Worked really well for the first month to two, but after that performance became atrocious with constant application crashes and random slow-downs as if there was a memory leak.  
  For some people it stays working great, but not for me.  
@@ -47,3 +48,6 @@
  ### [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
  Haven't actually tried emulating Android on it (Genymobile is using it), and the only reason it's even here is beacuase of BlissOS which I couldn't get running, but maybe you can..  
  
+<details>
+	<summary>Contributing</summary>
+	#Feel free to open pull requests if you have experience with some emulator not listed here and I'll add it to a community list.
