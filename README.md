@@ -50,5 +50,5 @@
  
 <details>
 	<summary>Contributing</summary>
-	Found a typo/mistake? Open an issue or a pull request with a fix :)  
+	Found a typo/mistake? Open an issue or a pull request with a fix :) <br />
 	Also feel free to open pull requests if you have experience with some emulator not listed here and I'll add it to a community list.
