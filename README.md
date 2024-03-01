@@ -40,8 +40,8 @@
  ### [Waydroid](https://waydro.id/)
  I haven't tried this one much outside of 1 week that I happened to be running linux but it worked perfectly with Fate / Grand Order.  
  Everyone who used it says its the best.
- [!IMPORTANT]
- Waydroid is LINUX ONLY!
+ > [!IMPORTANT]
+ > Waydroid is LINUX ONLY!
  ### [QEMU]()
  It seems to have no GUI but is supposed to have better performance than using VirtualBox on its own.  
  I'm not good at using terminals to interact with software so I gave up.  
