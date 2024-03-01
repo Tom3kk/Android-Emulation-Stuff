@@ -1,11 +1,12 @@
 # Android Emulation Stuff
  
+ # Best Emulator as of March 1st 2024
+ ## [MumuPlayer](https://www.mumuplayer.com/index.html)  
+  
+  
 ## In short I've been trying to find the 1 emulator for all my needs for years now. 
  Sadly, most of them have some kind of issue that causes problems at some point.  
  Here I'll list emulators and what I've experienced with them, if at all.  
-# Best Emulator as of March 1st 2024
-## [MumuPlayer](https://www.mumuplayer.com/index.html)  
-  
  ### [LDPlayer](https://www.ldplayer.net/download/install)
  Worked really well for the first month to two, but after that performance became atrocious with constant application crashes and random slow-downs as if there was a memory leak.  
  For some people it stays working great, but not for me.  
