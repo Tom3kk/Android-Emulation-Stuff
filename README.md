@@ -15,7 +15,7 @@
  Performance-wise works pretty well, however on my system there is a very noticeable ~1ms delay on sound, as if using a bluetooth speaker.  
  After some time also started having performance issues like LDplayer, but it never got as bad as LD.  
  ### [Bluestacks 5](https://www.bluestacks.com/download.html)
- Resident adware emulator, I can't even install it but apparently its the best for Blue Archive. 
+ Resident adware emulator, I can't even install it but apparently its the best for Blue Archive.  
  DO NOT USE BLUESTACKS X.  
  ### [Genymobile](https://www.genymotion.com/product-desktop/download/)  
  Ran FGO pretty well for the short time I used it but it could not run Blue Archive (Android 9)  
