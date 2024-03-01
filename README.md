@@ -37,9 +37,11 @@
  So far its pretty good, very good performance in Blue Archive and Fate / Grand Order.
  The only issue is moving files within the system, you have to root and use a file manager that can make use of being a superuser to move files into Android/Data.
  The root is just a box you check in the settings.
- ### [Waydroid](https://waydro.id/) [Linux Only]
+ ### [Waydroid](https://waydro.id/)
  I haven't tried this one much outside of 1 week that I happened to be running linux but it worked perfectly with Fate / Grand Order.  
- Everyone who used it says its the best.  
+ Everyone who used it says its the best.
+ [!IMPORTANT]
+ Waydroid is LINUX ONLY!
  ### [QEMU]()
  It seems to have no GUI but is supposed to have better performance than using VirtualBox on its own.  
  I'm not good at using terminals to interact with software so I gave up.  
