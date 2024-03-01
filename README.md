@@ -1,7 +1,7 @@
 # Android Emulation Stuff
  
  # Best Emulator as of March 1st 2024
- ## [MumuPlayer](https://www.mumuplayer.com/index.html)  
+ # [MumuPlayer](https://www.mumuplayer.com/index.html)  
   
   
  I've been trying to find the 1 emulator for all my needs for years now. 
@@ -46,5 +46,5 @@
  It seems to have no GUI but is supposed to have better performance than using VirtualBox on its own.  
  I'm not good at using terminals to interact with software so I gave up.  
  ### [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
- Haven't actually tried emulating Android on it, and the only reason it's even here is beacuase of BlissOS which I couldn't get running but maybe you can..  
+ Haven't actually tried emulating Android on it (Genymobile is using it), and the only reason it's even here is beacuase of BlissOS which I couldn't get running, but maybe you can..  
  
