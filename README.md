@@ -34,7 +34,7 @@
  Pretty much caused me not to use it due to how big of a pain in the ass actually setting it up was.  
  ### [MumuPlayer](https://www.mumuplayer.com/index.html)
  <b>I'm using this one right now!</b>  
- So far its pretty good, very good performance in Blue Archive and Fate/Grand Order.
+ So far its pretty good, very good performance in Blue Archive and Fate/Grand Order.  
  The only issue is moving files into Android/Data as you have to root and use a file manager that can use superuser to see the Data folder as the default file browser refuses to show it when copying files.   
  The root is just a box you check in the settings.
  ### [Waydroid](https://waydro.id/)
