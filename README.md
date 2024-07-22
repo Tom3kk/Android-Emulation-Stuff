@@ -19,7 +19,7 @@
  DO NOT USE BLUESTACKS X.  
  ### [Genymobile](https://www.genymotion.com/product-desktop/download/)  
  Ran FGO pretty well for the short time I used it but it could not run Blue Archive (Android 9)  
- It also does not support ARM out of the box so you have to use something like [this]()  
+ It also does not support ARM out of the box so you have to use something like [this](https://github.com/m9rco/Genymotion_ARM_Translation?tab=readme-ov-file)  
  Also, its basically VirtualBox with some neat features for Android emulation.  
  Requires an account, has features locked behind a subscription.  
  ### [Windows subsystem for Android]() 
