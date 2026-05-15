@@ -8,6 +8,9 @@
  This is meant as a list of emulators that I can point people towards without spending 20 minutes one explaining the pros and cons each time.
  If you have some suggestions feel free to open an issue.
  ### [LDPlayer](https://www.ldplayer.net/download/install)
+ > [!CAUTION]
+ > APPARENTLY LDPLAYER WAS CAUGHT LOGGING PLAYER LOGIN AND PASSWORDS FOR GAMES, SO DONT USE IT LOL
+
  Worked really well for the first month to two, but after that performance became atrocious with constant application crashes and random slow-downs as if there was a memory leak.  
  For some people it stays working great, but not for me.  
  Seems to also require Hyper-V.  
